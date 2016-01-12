@@ -1,0 +1,26 @@
+{
+  "name": "promise-retry",
+  "version": "1.0.0",
+  "description": "catch promise error and retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/promise-retry.git"
+  },
+  "author": "lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/promise-retry/issues"
+  },
+  "homepage": "https://github.com/song940/promise-retry#readme",
+  "keywords": [
+    "promise",
+    "retry"
+  ],
+  "dependencies": {
+    "debug": "^2.2.0"
+  }
+}
