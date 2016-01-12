@@ -1,10 +1,10 @@
-## promise-retry ![NPM version](https://img.shields.io/npm/v/promise-retry.svg?style=flat)
+## promise-retry
 
 catch promise error and retry
 
 ### Installation
 ```bash
-$ npm install promise-retry
+$ npm install https://github.com/song940/promise-retry --save
 ```
 
 ### Example
