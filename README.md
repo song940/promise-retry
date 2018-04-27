@@ -1,15 +1,16 @@
-## promise-retry
+## promise-retry2
 
 catch promise error and retry
 
 ### Installation
+
 ```bash
-$ npm install https://github.com/song940/promise-retry --save
+$ npm install promise-retry2 --save
 ```
 
 ### Example
 ```js
-var retry = require('promise-retry');
+const retry = require('promise-retry2');
 
 // example 1.
 retry(() => getHttpRequest('/api'), 3).then((res)=>{
